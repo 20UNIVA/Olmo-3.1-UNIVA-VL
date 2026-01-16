@@ -67,7 +67,3 @@ we progressed SFT in fine-tune stage
 - TextVQA
 - DocVQA
 - SynthText
-
-## Performance
-
--
